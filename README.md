@@ -1,6 +1,6 @@
-# Anfinsen Goes Neural (AGN): a Graphical Model for Conditional Antibody Design
+# Decoupled Sequence and Structure Generation for Realistic Antibody Design
 
-This is a public repository for our paper [Anfinsen Goes Neural: a Graphical Model for Conditional Antibody Design](https://arxiv.org/abs/2402.05982). 
+This is a public repository for our paper **Decoupled Sequence and Structure Generation for Realistic Antibody Design**. 
 
 ## Overview
 
