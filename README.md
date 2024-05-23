@@ -4,26 +4,12 @@ This is a public repository for our paper **Decoupled Sequence and Structure Gen
 
 ## Overview
 
-- [Environment](#environmental-setup)
-    - [Conda](#conda)
 - [Data Preparation](#data-preparation)
 - [Benchmark Experiments](#benchmark-experiments)
     - [Task 1: Sequence and Structure Modeling](#task-1-sequence-and-structure-modeling)
     - [Task 2: Antibody-binding CDR-H3 Design](#task-2-antibody-binding-cdr-h3-design)
 - [Acknowledgements](#acknowledgements)
 - [Citation](#citation)
-
-## Environmental Setup
-### Conda
-
-```bash
-# clone project
-git clone https://github.com/lkny123/AGN.git
-cd AGN
-
-# setup environment
-source scripts/install.sh
-```
 
 ## Data Preparation
 
